@@ -1,0 +1,8 @@
+as Base import "../base"
+as Button import "../components/Button"
+
+serve (
+<Base>
+    <Button>Click Me</Button>
+</Base>
+)

@@ -1,0 +1,6 @@
+link "#css/button.css"
+
+serve (
+    <!-- From Uiverse.io by adamgiebl --> 
+    <button class="noor-btn">@(slot)</button>
+)
