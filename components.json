@@ -8,7 +8,7 @@
     "button": {
         "component": "/components/Button.zare",
         "staticFiles": [
-            "/static/css/button.css"
+            "/static/deps/button.css"
         ]
     }
 }
