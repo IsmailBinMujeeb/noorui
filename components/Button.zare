@@ -1,4 +1,4 @@
-link "#css/button.css"
+link "#deps/button.css"
 
 serve (
     <!-- From Uiverse.io by adamgiebl --> 

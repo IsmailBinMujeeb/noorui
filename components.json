@@ -1,18 +1,14 @@
 {
     "Button": {
         "component": "/components/Button.zare",
-        "staticFiles": {
-            "css": [
-                "/static/css/button.css"
-            ]
-        }
+        "staticFiles": [
+            "/static/css/button.css"
+        ]
     },
     "button": {
         "component": "/components/Button.zare",
-        "staticFiles": {
-            "css": [
-                "/static/css/button.css"
-            ]
-        }
+        "staticFiles": [
+            "/static/css/button.css"
+        ]
     }
 }
